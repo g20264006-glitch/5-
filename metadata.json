@@ -1,0 +1,6 @@
+{
+  "name": "한정판 물건 구매를 독점하는 불공정한 리셀러 AI를 고치기",
+  "description": "12~14세 학생 대상 AI 윤리 캠프용 웹앱. 불공정한 리셀러 AI 에이전트를 고쳐서 공정하고 투명한 예약 에이전트를 설계, 테스트, 발표하는 인터랙티브 캠프 캔버스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
